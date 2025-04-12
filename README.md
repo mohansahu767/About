@@ -1,8 +1,20 @@
-- 👋 Hi, I’m Mohan Sahu, a computer science student with a passion for programming.
-- 👀 I’m interested in exploring new technologies and creating innovative solutions to real-world problems.
-- 🌱 I’m currently learning Python and web development, and I'm excited to apply my skills to meaningful projects.
-- 💞️ I’m looking to collaborate on open source projects and other initiatives that align with my interests.
-- 📫 You can reach me via email at [msahu3623@gmail.com] or connect with me on LinkedIn at [linkedin.com/in/mohan-sahu-].
+### 👋 Hi there, I'm **Mohan Sahu**!
+
+🎓 I'm a Computer Science student passionate about turning ideas into impactful digital solutions.
+
+🚀 Currently diving deep into **Python**, **PHP**, and **Web Development** — building full-stack applications that solve real-world problems.
+
+💡 I love exploring new technologies, optimizing code, and crafting clean, user-focused interfaces. Whether it's an e-learning platform or a healthcare web app, I enjoy creating meaningful projects that make a difference.
+
+🤝 I'm open to collaborating on **open source**, academic, or community-driven tech projects — especially in areas like education, healthcare, or automation.
+
+📬 Let's connect!  
+📧 Email: [msahu3623@gmail.com](mailto:msahu3623@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/mohan-sahu-](https://linkedin.com/in/mohan-sahu-)
+
+---
+
+🛠️ Check out some of my latest projects below. Feel free to explore, star ⭐, fork 🍴, or contribute 🤝!
 
 <!---
 mohansahu767/mohansahu767 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
